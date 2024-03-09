@@ -1,6 +1,6 @@
 These are bed STLs for slicers that support them, IE Prusa/Orca/SuperSlicer.
 
-They are only a nice to have, and may help to orientate parts correctly on the build-plate, shoukd you want to show off/setup a timelapse.
+They are only a nice to have, and may help to orientate parts correctly on the build-plate, should you want to show off/setup a timelapse.
 
 The Positron/JourneyMaker style:
 

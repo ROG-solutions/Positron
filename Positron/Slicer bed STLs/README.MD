@@ -4,5 +4,7 @@ They are only a nice to have, and may help to orientate parts correctly on the b
 
 I don't know how to embed photos in here, but there are .PNG images to show you what it looks like in this repo.
 
+![The JourneyMaker/Positron OG](Positron/Slicer bed STLs/Bed STL.png)
+
 Cheers!
 Rog

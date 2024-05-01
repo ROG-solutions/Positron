@@ -1,3 +1,6 @@
+Most up to date files can be found here:
+https://github.com/ROG-solutions/Positron/edit/main/Positron/cfg/Pi%20gpio%20info
+
 To check available gpiochip run:
 
 gpiodetect
